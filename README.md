@@ -57,4 +57,7 @@ npm run dev
 
 ### 友情链接
 [vue-netease-music](https://github.com/sl1673495/vue-netease-music)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 37b6aa64874968146df92f41561be7508a8c4a9a
